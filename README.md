@@ -1,2 +1,2 @@
 # UX-UIDesignerByJoe.DIO
-Repositório para projetos de UX e UI Designer dos meus cursos na DIO.
+Repositório criado para projetos de UX e UI Designer dos meus cursos na DIO.
